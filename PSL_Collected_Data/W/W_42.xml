@@ -1,0 +1,26 @@
+<annotation>
+	<folder>W</folder>
+	<filename>W_42.jpg</filename>
+	<path>D:\pythonProject\PSL_Collected_Data\W\W_42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>130</ymin>
+			<xmax>385</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

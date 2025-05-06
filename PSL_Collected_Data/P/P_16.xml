@@ -1,0 +1,26 @@
+<annotation>
+	<folder>P</folder>
+	<filename>P_16.jpg</filename>
+	<path>D:\pythonProject\PSL_Collected_Data\P\P_16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>372</xmin>
+			<ymin>264</ymin>
+			<xmax>487</xmax>
+			<ymax>407</ymax>
+		</bndbox>
+	</object>
+</annotation>
