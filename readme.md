@@ -14,6 +14,8 @@ The dataset contains __1200__ manually labeled images of my own hand. It covers 
 ## Prerequisites :white_check_mark:
 * Python 3.10
 * Webcam
+
+
 List of required packages is available in _requirements.txt_ file. 
 
 ## Installation :arrow_down:
@@ -21,6 +23,10 @@ List of required packages is available in _requirements.txt_ file.
 1. Clone the repository 
 2. Install required packages
 3. Run _Recognition_MobileNet.py_
+
+## Remark :bookmark:
+The _data.zip_ file used in the notebook is just a zip version of _PSL_COLLECTED_DATA_ folder. \
+It's not available here because it exceeds GitHub's maximum file size (100 mb). 
 
 ## Author :man_technologist:
 * Filip Schulz, s22455
