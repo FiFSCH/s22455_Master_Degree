@@ -5,7 +5,7 @@ It focuses on alphabet recognition.
 
 ## Dataset :scroll:
 
-The dataset contains __1200__ manually labeled images of my own hand. It covers only selected static alphabet gestures. <\br>
+The dataset contains __1200__ manually labeled images of my own hand. It covers only selected static alphabet gestures.
 * __Included symbols:__ A, B, C, CH, D, E, F, G, H, I, K, L, M, N, O, P, R, S, SZ, T, U, W, Y, Z.
 * __Excluded Symbols:__ Ą, Ć, CZ, Ę, J, Ł, Ń, Ó, RZ, Ś, Ź, Ż
 
