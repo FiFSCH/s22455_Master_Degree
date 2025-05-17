@@ -22,7 +22,7 @@ List of required packages is available in _requirements.txt_ file.
 
 1. Clone the repository 
 2. Install required packages
-3. Run _Recognition_MobileNet.py_
+3. Run _Recognition_MobileNet.py_ within IDE
 
 ## Remark :bookmark:
 The _data.zip_ file used in the notebook is just a zip version of _PSL_COLLECTED_DATA_ folder. \
